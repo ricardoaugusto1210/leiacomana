@@ -610,16 +610,6 @@ footer .social a:hover {
     grid-auto-flow: column;
   }
 
-  /* services */
-  .cards {
-    grid-template-columns: 1fr 1fr 1fr;
-  }
-
-  .card {
-    padding-left: 3rem;
-    padding-right: 3rem;
-  }
-
   /* testimonials */
   #testimonials .container {
     margin-left: auto;
